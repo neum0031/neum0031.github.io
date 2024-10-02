@@ -785,6 +785,17 @@ display: none !important;
   .crmEntityFormView label {
     background-color: #ffffff;
     color: #000000; }
+
+    #daform .da-review-action.da-review-action-button {
+        position: relative;
+        font-size: 0;
+        padding: 0.25rem 0.5rem;
+        background: var(--primary-shadow);
+        color: var(--primary);
+        border: 0;
+        box-shadow: none !important;
+        width: auto;
+    }
   
   /* till here */
   

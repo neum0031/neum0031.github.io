@@ -195,9 +195,11 @@
     }
     .row.da-field-container.da-field-container-note a{
     color: #64edce !important;
+    background-color: #212121 !important;
     }
     .row.da-field-container.da-field-container-note a:hover{
-    color: #64edce !important;
+    color: #212121 !important;
+    background-color: #64edce !important;
     }
     .da-page-header {
     }

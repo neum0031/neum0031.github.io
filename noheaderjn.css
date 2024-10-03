@@ -361,16 +361,7 @@
     border-radius: 8px !important;
     background-color: #fff !important;
     }
-    .select2-container--default .select2-search--dropdown .select2-search__field  {
-    outline-color : undefined !important;
-    outline-style :  undefined !important;
-    }
-    .select2-container--default .select2-selection--single .select2-selection__placeholder{
-    font-family: undefined !important;
-    }
-    .select2-results__option{
-    font-family: undefined !important;
-    }
+
     .select2-container--default .select2-results__option--highlighted.select2-results__option--selectable
     {
     border-color: #212121 !important;
@@ -443,7 +434,6 @@
     background-color : #212121 !important;
     border-color : #212121 !important;
     color : #64edce !important;
-    font-family: undefined !important;
     border-radius : 8px !important;
     }
     .btn-info:hover{

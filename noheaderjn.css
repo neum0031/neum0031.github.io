@@ -348,10 +348,11 @@
     color: #212121 !important;
     border-color: #d9e3f0 !important;
     background-color: #ffffff !important;
+    border-radius : 8px !important;
     }
     #daform .da-review-action.da-review-action-button:hover, table.table.table-striped tr td a.btn.btn-darevisit:not(.btn-danger):hover{
     color: #fff !important;
-    border-color: #0069d9 !important;
+    border-color: #64edce !important;
     background-color: #64edce !important;
     }
     .da-review-button p{

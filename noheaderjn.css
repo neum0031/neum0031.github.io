@@ -427,9 +427,7 @@
     .da-subquestion h2, .h2{
     color: #212121 !important;
     }
-    .table.table-striped thead th{
-    font-family: undefined !important;
-    }
+
     .table-striped tbody tr:nth-of-type(2n+1), .table.table-striped thead th{
     background-color: #e7f0fe !important;
     }

@@ -425,7 +425,10 @@
     }
     .table-striped tbody tr:nth-of-type(2n){
     background-color: #fff !important;
-    border-radius : 8px !important;
+    border-radius : 20px !important;
+    }
+    .table-striped>tbody>tr:nth-of-type(odd)>* {
+    border-radius : 20px !important;
     }
     .table > :not(caption) > * > *{
     box-shadow: none !important;

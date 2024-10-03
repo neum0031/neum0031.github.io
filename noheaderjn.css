@@ -173,7 +173,7 @@ font-family: "Helvetica" !important;
 border-width : 0px !important;
 }
 .btn.btn-da.btn-secondary:hover, p .btn-secondary.btn-sm:hover {
-color: #ffffff !important;
+color: #64edce !important;
 background-color: #212121 !important;
 border-color : #212121 !important;
 }
@@ -203,8 +203,8 @@ border-color: #d9e3f0 !important;
 background-color: #ffffff !important;
 }
 #daform .da-review-action.da-review-action-button:hover, table.table.table-striped tr td a.btn.btn-darevisit:not(.btn-danger):hover{
-color: #fff !important;
-border-color: #0069d9 !important;
+color: #212121 !important;
+border-color: #64edce !important;
 background-color: #64edce !important;
 }
 .da-review-button p{
@@ -270,7 +270,7 @@ background-color: #64edce !important;
 }
 table.table.table-striped tr td a.btn.btn-darevisit.btn-danger, button.btn.dacollectremoveexisting, button.btn.dacollectremove{
 color: #64edce !important;
-border-color: #ffffff !important;
+border-color: #212121 !important;
 background-color: #212121 !important;
 }
 table.table.table-striped tr td a.btn.btn-darevisit.btn-danger:hover, button.btn.dacollectremoveexisting:hover, button.btn.dacollectremove:hover{

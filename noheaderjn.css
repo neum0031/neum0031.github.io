@@ -425,6 +425,10 @@
     .table-striped tbody tr:nth-of-type(2n){
     background-color: #fff !important;
     }
+
+    .table tr {
+    background-color: #212121 !important;   
+    } 
     .table {
         width: 100%;
         margin-bottom: 1rem;

@@ -193,6 +193,9 @@
     .row.da-field-container.da-field-container-note, .da-subquestion{
     color: #212121 !important;
     }
+    .row.da-field-container.da-field-container-note a{
+    color: #64edce !important;
+    }
     .row.da-field-container.da-field-container-note a:hover{
     color: #64edce !important;
     }

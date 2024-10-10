@@ -15,8 +15,12 @@ text-decoration: underline !important;
 a {
 text-decoration: underline !important;
 background-color:#64edce !important;
-border-radius: 8px !important;
+border-radius: 3px !important;
 }
+a:hover {
+background-color:#yyyyyy !important;
+}
+  
 .nav-pills .nav-link:not(.active):not(.text-muted)::before {
 border: 2px solid #212121 !important;
 }

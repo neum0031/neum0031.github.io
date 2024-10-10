@@ -10,6 +10,7 @@ color: #212121 !important;
 }
 .daundertext a:hover{
 color: #64edce !important;
+text-decoration: underline !important;
 }
 a {
 colour:#2a9fd6 !important;
@@ -38,10 +39,10 @@ color: #212121 !important;
 font-family: "Helvetica" !important;
 }
 .row.da-field-container.da-field-container-note a{
-color: #2a9fd6 !important;
+color: #212121 !important;
 }
 .row.da-field-container.da-field-container-note a:hover{
-color: #212121 !important;
+color: ##64edce !important;
 }
 .da-page-header {
 }

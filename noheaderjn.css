@@ -16,7 +16,7 @@ a {
 text-decoration: underline !important;
 }
 a:hover {
-background-color:#64edce !important;
+background-color:#yyyyyyy !important;
 }
   
 .nav-pills .nav-link:not(.active):not(.text-muted)::before {
@@ -310,9 +310,7 @@ font-family: "Helvetica" !important;
 border-radius : 8px !important;
 }
 .btn-info:hover{
-background-color : #64edce !important;
-border-color : #64edce !important;
-color : #fff !important;
+color : #212121 !important;
 }
 .btn-secondary:focus, .btn-secondary.focus,     .btn.btn-da.btn-primary:focus, .btn-primary:focus{
 box-shadow: none !important;

@@ -18,7 +18,9 @@ text-decoration: underline !important;
 a:hover {
 background-color:#yyyyyyy !important;
 }
-  
+.visually-hidden {
+    display: none;
+}  
 .nav-pills .nav-link:not(.active):not(.text-muted)::before {
 border: 2px solid #212121 !important;
 }

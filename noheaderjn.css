@@ -18,7 +18,7 @@ text-decoration: underline !important;
 a:hover {
 background-color:#yyyyyyy !important;
 }
-legend.visually-hidden {
+legend {
     display: none;
 }  
 .nav-pills .nav-link:not(.active):not(.text-muted)::before {
